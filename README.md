@@ -101,7 +101,7 @@ Employee attrition is one of the biggest challenges for organizations. This dash
 **Naveen G Patil**
 MCA Graduate | Chandigarh University
 📧 naveengpatil08@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/naveengpatil)
+🔗 [LinkedIn](https://www.linkedin.com/in/naveen-patil-a622b7279/)
 💻 [GitHub](https://github.com/naveengpatil08)
 
 ---
